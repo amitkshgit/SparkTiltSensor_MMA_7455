@@ -1,0 +1,7 @@
+{
+    "name": "SparkTiltSensor_MMA_7455",
+    "version": "0.0.1",
+    "author": "Amit Sharma <amitksh@yahoo.com>",
+    "license": "Released under Creative Commons Licence",
+    "description": "Tilt Sensor MMA 6455 with Spark Core."
+}
