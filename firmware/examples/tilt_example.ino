@@ -18,7 +18,7 @@ SDA - To Spark D0 */
  
 /*-----( Import needed libraries )-----*/
 #include "SparkTiltSensor_MMA_7455/Wire.h" //Include the Wire library
-#include "SparkTiltSensor_MMA_7455/MMA_7455.h" //Include the MMA_7455 library
+#include "SparkTiltSensor_MMA_7455/SparkTiltSensor_MMA_7455.h" //Include the MMA_7455 library
 
 
 /*-----( Declare Constants and Pin Numbers )-----*/

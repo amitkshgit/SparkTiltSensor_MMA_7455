@@ -4,7 +4,7 @@
 // ZHdK, 03/04/2012
 // Released under Creative Commons Licence
 
-#include "MMA_7455.h"
+#include "SparkTiltSensor_MMA_7455.h"
 
 #define MMA_7455_ADDRESS 0x1D //I2C Adsress for the sensor
 #define MMA_7455_MODE_CONTROLL 0x16 //Call the sensors Mode Control
