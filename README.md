@@ -15,4 +15,16 @@ SCL - To Spark D1
 
 SDA - To Spark D0
 
+You should see output like this, if things work well - 
+
+X = 235   Y = 176   Z = 252
+X = 244   Y = 222   Z = 64
+X = 244   Y = 230   Z = 65
+X = 242   Y = 233   Z = 67
+X = 247   Y = 231   Z = 67
+X = 249   Y = 230   Z = 66
+X = 251   Y = 231   Z = 65
+X = 244   Y = 196   Z = 58
+X = 249   Y = 42   Z = 247
+X = 249   Y = 42   Z = 248
 
