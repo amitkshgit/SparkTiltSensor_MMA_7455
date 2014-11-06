@@ -25,3 +25,4 @@ X = 244   Y = 196   Z = 58
 X = 249   Y = 42   Z = 247  
 X = 249   Y = 42   Z = 248  
 
+Note, that you can also set the offsets in the .INO file.
